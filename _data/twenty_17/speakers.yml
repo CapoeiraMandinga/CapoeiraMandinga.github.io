@@ -1,26 +1,39 @@
-- title: Name
-  name: Name-1
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: Mestre Urubu Malandro
+  subtitle: dance and capoeira class
+  img: Malandro.jpg
+  thumbnail: Malandro.jpg
 
-- title: Name
-  name: Name-2
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: Tania Santiago
+  subtitle: dance class
+  img: Santiago.jpg
+  thumbnail: Santiago.jpg
 
-- title: Name
-  name: Name-3
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: Mestre Fabião
+  subtitle: capoeira
+  img: Fabiao.jpg
+  thumbnail: Fabiao.jpg
+
+- title: Mestre Lucas Corvo
+  subtitle: capoeira
+  img: Corvo.jpg
+  thumbnail: Corvo.jpg
+
+- title: Mestre Marcelo
+  subtitle: capoeira
+  img: Marcelo.jpg
+  thumbnail: Marcelo.jpg
+
+- title: Contra mestre Versatil
+  subtitle: warior class
+  img: Versatil and Varal.jpg
+  thumbnail: Versatil and Varal.jpg
+
+- title: Contra Mestre Varal
+  subtitle: capoeira
+  img: Versatil and Varal.jpg
+  thumbnail: Versatil and Varal.jpg
+
+- title: Sininho
+  subtitle: injury prevention
+  img: Sininho.jpg
+  thumbnail: Sininho.jpg
