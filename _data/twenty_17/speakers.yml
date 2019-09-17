@@ -1,3 +1,8 @@
+- title: Mestre Marcelo
+  subtitle: capoeira
+  img: Marcelo.jpg
+  thumbnail: Marcelo.jpg
+
 - title: Mestre Urubu Malandro
   subtitle: dance and capoeira class
   img: Malandro.jpg
@@ -13,25 +18,25 @@
   img: Fabiao.jpg
   thumbnail: Fabiao.jpg
 
+- title: Mestre Batuta
+  subtitle: capoeira
+  img: Batuta.jpg
+  thumbnail: Batuta.jpg
+
 - title: Mestre Lucas Corvo
   subtitle: capoeira
   img: Corvo.jpg
   thumbnail: Corvo.jpg
 
-- title: Mestre Marcelo
-  subtitle: capoeira
-  img: Marcelo.jpg
-  thumbnail: Marcelo.jpg
-
 - title: Contra mestre Versatil
   subtitle: warior class
-  img: Versatil and Varal.jpg
-  thumbnail: Versatil and Varal.jpg
+  img: Versatil.jpg
+  thumbnail: Versatil.jpg
 
 - title: Contra Mestre Varal
   subtitle: capoeira
   img: Versatil and Varal.jpg
-  thumbnail: Versatil and Varal.jpg
+  thumbnail: Varal.jpg
 
 - title: Sininho
   subtitle: injury prevention
