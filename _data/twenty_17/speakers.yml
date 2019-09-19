@@ -28,15 +28,15 @@
   img: Corvo.jpg
   thumbnail: Corvo.jpg
 
-- title: Contra mestre Versatil
-  subtitle: warior class
-  img: Versatil.jpg
-  thumbnail: Versatil.jpg
-
 - title: Contra Mestre Varal
   subtitle: capoeira
   img: Versatil and Varal.jpg
   thumbnail: Varal.jpg
+
+- title: Contra mestre Versatil
+  subtitle: warior class
+  img: Versatil.jpg
+  thumbnail: Versatil.jpg
 
 - title: Sininho
   subtitle: injury prevention
